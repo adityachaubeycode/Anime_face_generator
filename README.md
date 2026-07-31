@@ -1,6 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=plastic&logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white)
-![DenseNet121](https://img.shields.io/badge/Model-DenseNet121-green?style=plastic)
+![DDPM](https://img.shields.io/badge/Model-DDPM-green?style=plastic)
 ![License](https://img.shields.io/badge/License-MIT-green?style=plastic)
 
 # 🎨 AnimeFace-DDPM
